@@ -2,16 +2,20 @@
     margin: 0px;
 }
 
-/* STILE HEADER */
+main{
+    margin-left: 10px;
+}
+
+/* STILE BANNER CON LOGO */
 
 .banner{
-    width: 100%;
     height: 100px;
     background-image: url(../img/pattern.png);
     background-color: lightskyblue;
     background-repeat: repeat-x;
     background-size: 30%;
     position: relative;
+    margin: 0px;
 }
 
 .logo{
@@ -19,3 +23,30 @@
     position: absolute;
     bottom: 10%;
 }
+
+/* STILE TITOLO E AUTORE */
+
+.whole-title{
+    margin-bottom: 30px;
+}
+.source{
+    color: gray;
+}
+
+.title{
+    font-size: 50px;
+}
+
+.written-by{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.author{
+    color: lightseagreen;
+}
+
+.date{
+    font-size: 12px;
+}
+
