@@ -59,3 +59,15 @@ main{
     font-size: 12px;
     font-weight: 700;
 }
+
+/* STILE PRIMO E SECONDO PARAGRAFO */
+
+.highlight{
+    background-color: yellow;
+}
+
+p{
+    margin-bottom: 30px;
+}
+
+
