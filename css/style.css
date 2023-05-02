@@ -50,3 +50,12 @@ main{
     font-size: 12px;
 }
 
+/* STILE IMMAGINI E FONTI */
+
+.images-sources{
+    margin-bottom: 30px;
+}
+.photo-source{
+    font-size: 12px;
+    font-weight: 700;
+}
