@@ -77,3 +77,34 @@ ul{
     margin-bottom: 30px;
 }
 
+/* STILE TABELLA */
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+thead{
+    background-color: lightseagreen;
+    color: white;
+}
+
+th{
+    text-align: left;
+}
+
+.column-1{
+    width: 25%;
+}
+
+.column-2{
+    width: 25%;
+}
+
+.column-3{
+    width: 50%;
+}
+
+.tbody-row-1, .tbody-row-3{
+    background-color: lightblue;
+}
