@@ -2,8 +2,8 @@ body{
     margin: 0;
 }
 
-main{
-    margin: 5px;
+main, footer{
+    margin: auto 10% auto 10%;
 }
 /* STILE BANNER CON LOGO */
 
@@ -19,6 +19,7 @@ main{
 .logo{
     width: 15%;
     position: absolute;
+    left: 10%;
     bottom: 10%;
 }
 
